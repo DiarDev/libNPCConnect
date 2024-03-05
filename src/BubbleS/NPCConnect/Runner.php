@@ -27,7 +27,7 @@ use pocketmine\entity\Skin;
 use BubbleS\NPCConnect\npc\{NPC,NPCChat};
 use BubbleS\NPCConnect\events\NPCCreatedEvent;
 
-class Runner{
+class NPCConnect{
   
   private static bool $isRegister = false;
   
