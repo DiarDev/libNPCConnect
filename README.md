@@ -24,4 +24,4 @@ NPCConnect::init($this);
 NPCConnect::createNPCChat($player,["Hello"=>3],null,'');
 ```
 
-<color="red">I will upgrade it further!</color>
+# Note: I will upgrade it further!
