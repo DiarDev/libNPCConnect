@@ -1,7 +1,7 @@
 # libNPCConnect
 This virion helps you better transform NPC conversations as a guide **Beta**
 <br>
-`❗There might be problems, because this is my first library`
+`❗Implemented from virion to plugin for NPC update operation`
 <hr>
 Not official yet, this is a test version
 
@@ -15,11 +15,11 @@ NPCConnect::init($this);
 ## Note:
 ## You need to add use `BubbleS\NPC Connect\NPC Connect`
 <br>
-• So you have completed the setup.
+• So you have completed the setup.Implemented from virion to plugin for NPC update operation
 
 # How to use?
 
-## You can create NPC using this code:
+• You can create NPC using this code:
 ```php
 NPCConnect::createNPCChat($player,["Hello"=>3],null,'');
 ```
