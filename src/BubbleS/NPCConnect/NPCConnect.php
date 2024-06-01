@@ -30,6 +30,9 @@ use BubbleS\NPCConnect\events\NPCCreatedEvent;
 class NPCConnect{
   
   private static bool $isRegister = false;
+
+  public function onEnable():void{
+  }
   
   public static function init(PB $plugin): void{
     if(!self::$isRegister){
